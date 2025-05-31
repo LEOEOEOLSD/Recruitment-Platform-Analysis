@@ -45,7 +45,7 @@ As a Strategy Team Data Analyst, I developed and proposed **AARRR framework-base
   - Of these, **“Job Browsers”** were chosen as the primary focus.
     - Although application count is close to zero, this group averages `14 job-listing views` and `12 job-detail views` per user.
     - Their view count is **10 times higher** than that of inactive users.
-    - Therefore, targeting job browsers is the most realistic approach for rapid performance improvement.
+    - Therefore, Job Browsers are the most realistic approach for rapid performance improvement.
 
 ---
 
